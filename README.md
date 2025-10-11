@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=5bb3f5&height=120&text=👋%20Hi,%20I'm%20JaeHyun%20!&animation=twinkling&fontColor=255255&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=5bb3f5&height=120&text=👋%20Hi,%20I'm%20JaeHyun%20!&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> a junior developer who lacks a lot </h2>  
