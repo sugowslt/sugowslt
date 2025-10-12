@@ -1,8 +1,7 @@
 <div align= "center">
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> a junior developer who lacks a lot </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  백엔드 개발자 신재현 입니다.
-    <br> A back-end developer
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  A back-end developer
     <br> interested in Android with kotlin.
     </div> 
     </div>
