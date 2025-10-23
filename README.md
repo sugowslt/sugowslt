@@ -1,6 +1,6 @@
 <div align= "center">
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> a junior developer who lacks a lot. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> a junior developer who lacks a lot </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  A back-end developer
     <br> interested in Android with kotlin.
     </div> 
