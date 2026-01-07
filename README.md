@@ -1,19 +1,20 @@
 <div align= "center">
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> a junior developer who lacks a lot. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  A back-end developer
-    <br> interested in Android with kotlin.
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  A front-end developer
+    <br> interested in React with TypeScript.
     </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Learning.... </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> 
-        <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <br><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-        <img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-        </div>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Learning.... </h2> <br> 
+  <div style="text-align: left;"> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  </div>
+</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me  </h2> <br> 
