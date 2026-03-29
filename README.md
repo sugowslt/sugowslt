@@ -6,7 +6,7 @@
       a junior developer who lacks a lot.
     </h2>
     <div style="font-weight: 700; font-size: 15px; color: #282d33;">
-      A back-end developer<br>
+      <br>
       interested in React with TypeScript.
     </div>
   </div>
