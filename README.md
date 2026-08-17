@@ -7,7 +7,7 @@
     </h2>
     <div style="font-weight: 700; font-size: 15px; color: #282d33;">
       <br>
-      interested in React with TypeScript.
+      interested in Kotlin with Java.
     </div>
   </div>
 
